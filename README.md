@@ -392,7 +392,7 @@
                  data-client_id="48603052582-hval44o4f6mq3mdh3c2s97vd71ad1ug3.apps.googleusercontent.com"
                  data-callback="handleCredentialResponse"
                  data-context="signin"
-                 data-ux_mode="popup"
+                 data-ux_mode="redirect"
                  data-auto_select="true"
                  data-itp_support="true">
             </div>
