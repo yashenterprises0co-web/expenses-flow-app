@@ -1,6 +1,5 @@
 # expenses-flow-app
 "Financial Management App"
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
