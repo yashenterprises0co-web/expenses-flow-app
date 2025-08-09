@@ -392,6 +392,7 @@
                  data-callback="handleCredentialResponse"
                  data-context="signin"
                  data-ux_mode="redirect"
+                 data-use_fedcm_for_prompt="false"
                  data-auto_select="true"
                  data-itp_support="true">
             </div>
