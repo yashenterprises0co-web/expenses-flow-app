@@ -486,7 +486,7 @@ const CONFIG = {
 
     // Backend
     // ❗️ REPLACE THIS WITH YOUR GOOGLE APPS SCRIPT WEB APP URL
-    backendUrl: "https://script.google.com/macros/s/AKfycbypRj6VAdgUp8FP1hDVMQtwe0Ixsz-jGSzKb0cLysMzItVVrceQAIFQaBMdnF488nwp-A/exec", 
+    backendUrl: "https://script.google.com/macros/s/AKfycbw-_q-99e3KiayxCy6aGk8ZZFWtvlZ6mvAszvKuBck4V_1r70xo0U1t_sUSFxg8wrWaWA/exec", 
 };
 
 // Global state
