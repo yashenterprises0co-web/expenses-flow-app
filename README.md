@@ -7,7 +7,7 @@
     
     <!-- Strict DOCTYPE and standards mode -->
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    
+   
     <!-- Icons: Font Awesome -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
     
@@ -21,6 +21,9 @@
 
     <!-- #################### CSS STYLES #################### -->
     <style>
+        /* --- Your CSS styles are here --- */
+    </style>
+</head>
         /* --- 1. Core Styles & Theming --- */
         :root {
             --primary-color: #007bff;
