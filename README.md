@@ -393,6 +393,7 @@
                  data-ux_mode="popup"
                  data-auto_select="true"
                  data-itp_support="true">
+                 data-use_fedcm_for_prompt="false">
             </div>
             <div class="g_id_signin"
                  data-type="standard"
