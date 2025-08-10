@@ -1,5 +1,4 @@
-# expenses-flow-app
-"Financial Management App"
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -391,9 +390,7 @@
                  data-client_id="48603052582-hval44o4f6mq3mdh3c2s97vd71ad1ug3.apps.googleusercontent.com"
                  data-callback="handleCredentialResponse"
                  data-context="signin"
-                 data-ux_mode="redirect"
-                 data-login_uri="https://yashenterprises0co-web.github.io/expenses-flow-app/"
-                 data-use_fedcm_for_prompt="false"
+                 data-ux_mode="popup"
                  data-auto_select="true"
                  data-itp_support="true">
             </div>
@@ -487,7 +484,7 @@ const CONFIG = {
 
     // Backend
     // ❗️ REPLACE THIS WITH YOUR GOOGLE APPS SCRIPT WEB APP URL
-    backendUrl: "https://script.google.com/macros/s/AKfycbyEkpYmAZ4OQ6BocAvm1r6FM96JgQKS8vBoi8td7-NUJd7-dLnSsiBjhp7XC3cHHt6-FA/exec", 
+    backendUrl: "https://script.google.com/macros/s/AKfycbzET1xBTyOqW8n4Ls5MBu3FDXlXRxUrRNOWhjBOVaxN9BJ8oEf6OZ912iPRdYndOfzejw/exec", 
 };
 
 // Global state
