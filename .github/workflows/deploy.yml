@@ -1,6 +1,6 @@
 mkdir -p .github/workflows
 cat > .github/workflows/deploy.yml <<'YML'
-# (name: Build and Deploy to GitHub Pages
+ name: Build and Deploy to GitHub Pages
 
 on:
   push:
@@ -30,7 +30,8 @@ jobs:
         uses: peaceiris/actions-gh-pages@v4
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./build)
+          publish_dir: ./build
+
 YML
 
 git add .github/workflows/deploy.yml
